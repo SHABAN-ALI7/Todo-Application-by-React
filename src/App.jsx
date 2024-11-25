@@ -63,8 +63,9 @@ useEffect(() => {
             ))}
           </div>
         </div>
-        <h6>© Shaban Ali Shaikh</h6>
+        
       </div>
+      <h6>© Shaban Ali Shaikh</h6>
     </TodoProvider>
   );
 }
